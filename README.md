@@ -10,7 +10,3 @@ This GitHub Pages site is live at https://tip-bits.vtt.red/
 ## Variables
 
 <https://jekyllrb.com/docs/variables/>
-
-## License
-
-This GitHub Pages site is not licensed for public use.
