@@ -18,7 +18,7 @@ A user pays a subscription fee to a **payment provider.** The payment provider p
 
 ### Who are the payment providers? What are their current services?
 
-There is currently only one payment provider, [Coil][1]. Coil only has one subscription plan: 5USD per month, payable via credit card. Subscribers get a few extras from Coil's [promotional partners][2], [Imgur][3] and [Twitch][4] among them.
+There is currently only one payment provider, [Coil][1]. Coil only has one subscription plan: 5USD per month, payable via credit card. Subscribers get a few extras from Coil's [promotional partners][2].
 
 Coil also provides a free blog platform. It allows authors to lock their articles behind a WM-enabled paywall.
 
@@ -102,8 +102,6 @@ Crafty users can also defeat the paywall with console commands. I'm hoping as Ti
 
 [1]: <https://coil.com> "Coil homepage"
 [2]: <https://coil.com/explore> "Coil partners"
-[3]: <https://imgur.com> "Imgur homepage"
-[4]: <https://twitch.tv> "Twitch homepage"
 [5]: <https://pumabrowser.com/> "Puma browser homepage"
 [6]: <https://uphold.com> "Uphold homepage"
 [7]: <https://gatehub.net> "GateHub homepage"
