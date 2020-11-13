@@ -1,6 +1,6 @@
 # tip-bits gh-pages
 
-This GitHub Pages site is live at https://vtt.red/tip-bits
+This GitHub Pages site is live at https://tip-bits.vtt.red/
 
 ## Layouts
 
